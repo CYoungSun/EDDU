@@ -1,4 +1,4 @@
-# ![favicon-32x32](https://user-images.githubusercontent.com/97578458/214900900-cabb5938-b12e-403f-9ef8-.png) EDDU SSAFY(에뜌 싸피)
+#  ![favicon-32x32](https://user-images.githubusercontent.com/97578458/214903430-39279578-dab4-4704-8042-8cdfb08f9380.png) EDDU SSAFY(에뜌 싸피)
 비대면 수업을 위한 화상회의 사이트
 
 <br/>

@@ -1,4 +1,4 @@
-# ![favicon-32x32](/uploads/0065b79aaeec8b89d0386770bf08fcb7/favicon-32x32.png) EDDU SSAFY(에뜌 싸피)
+# ![favicon-32x32](https://user-images.githubusercontent.com/97578458/214900900-cabb5938-b12e-403f-9ef8-.png) EDDU SSAFY(에뜌 싸피)
 비대면 수업을 위한 화상회의 사이트
 
 <br/>
@@ -108,34 +108,34 @@ feature : 세부 기능을 개발하는 브랜치
 
 - **와이어프레임**(figma)
 
-![image](/uploads/fef3c172a69813a46ec8e44c7afea670/image.png)
+![image](https://user-images.githubusercontent.com/97578458/214900946-69ec59af-9474-4017-8f5a-3647d0c82c46.png)
 
 <br/>
 
 - **ERD**
 
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![image](https://user-images.githubusercontent.com/97578458/214900956-377c26aa-ef4e-4742-86ff-03c3fa3b1551.png)
 
 <br/>
 
 - **화면정의서**
 
-<img src="/uploads/17028b920dfb76d79d4f25ac38f2e5c7/image.png" width="45%"> <img src="/uploads/88ce51527c0d7d02181a6cc210c85a8c/image.png" width="45%">
-<img src="/uploads/07d3045d7c2c95165181bf8541b3d3e3/image.png" width="45%"> <img src="/uploads/6ba5be1bcdd1e14a3bef9a918cf2de0d/image.png" width="45%">
-<img src="/uploads/4a466c788d73adb7a2ec93b17f838a2a/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214900962-d131f904-b2ea-46b9-a0ea-1ccbc775e9f7.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214900973-8c7658f7-bc30-47c7-91e9-b869d35cf299.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901461-baa3b89d-5380-4c51-be2f-7e7a33714334.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214901476-c32428ad-a0d6-4773-88c3-7c08641d8713.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901488-e2a7300f-3502-4e40-8e3b-61e05b0e4dd3.png" width="45%">
 
 <br/>
 
-<img src="/uploads/f530e8f431395ad1d73d72bdf5db4d85/image.png" width="45%"> <img src="/uploads/d6d7718c53f86086e75fd6de0eb78886/image.png" width="45%">
-<img src="/uploads/6fe31aab8ca622964259fb8ff651c9fa/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901752-f09df549-610b-4adc-932d-c4b18720255a.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214901775-668d0411-13f6-481f-a533-b849c1dd8cbb.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901789-de5635fc-fe99-4ca5-84a2-b56b24da5b43.png" width="45%">
 
 <br/>
 
 - **시퀀스 다이어그램**
 
-<img src="/uploads/174558e5e0ad665433136461962f2adc/image.png" width="45%"> <img src="/uploads/6dd1c4a71dd68df28d9655548b462d9e/image.png" width="45%">
-<img src="/uploads/71855836f707b1c0e8f07b42ab90fa63/image.png" width="45%"> <img src="/uploads/b83155f8fa963d9d3e774aaa12cfda49/image.png" width="45%">
-<img src="/uploads/f9dcee540d384403ea660dff248fd6e3/image.png" width="45%"> <img src="/uploads/54ba1d146c6d84c83a8aa632b89ade6f/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901942-b51f1877-1fd9-4ef0-9b68-fb239738bd76.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214901935-e3eb4344-31d9-4fa3-832f-e82c0f20d657.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901929-fe020fca-c45b-427a-a3c1-61344e227491.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214901922-13ad4868-753c-4a30-8d24-82ffba1896e4.png" width="45%">
+<img src="https://user-images.githubusercontent.com/97578458/214901915-e5507f26-8754-4188-b952-74c26680e394.png" width="45%"> <img src="https://user-images.githubusercontent.com/97578458/214901944-3c574a51-6daf-4ebe-8372-ffec093c27b2.png" width="45%">
 
 
 <br/><br/><br/>
@@ -164,46 +164,37 @@ feature : 세부 기능을 개발하는 브랜치
 ## 📌주요 기능
 
 ### 회원 가입
-![회원가입](/uploads/a3d4cbc0c24e82bab8f6e1bb6f0b29ed/회원가입.gif)
+![회원가입](https://user-images.githubusercontent.com/97578458/214902209-7a4551ef-0b99-4d0e-aa64-e2ed8e2f4ff2.gif)
 
 ### 로그인
-![로그인](/uploads/12098c3ca3b584615a6a5824e58a5a3b/로그인.gif)
+![로그인](https://user-images.githubusercontent.com/97578458/214902205-15c1cb69-f79e-49c1-9fd7-d1eae197fee9.gif)
 
 ### 개인정보 수정
-![개인정보_수정](/uploads/dd1160a1ad11394f929c0f7ac8e76b22/개인정보_수정.gif)
+![개인정보_수정](https://user-images.githubusercontent.com/97578458/214902202-9b2953ab-88de-4b82-838d-d30f399802f4.gif)
 
 ### 비밀번호 변경
-![비밀번호_변경](/uploads/af76a9ead980f0470066abc27f7e5ac8/비밀번호_변경.gif)
+![비밀번호_변경](https://user-images.githubusercontent.com/97578458/214902196-949845f9-12f8-48b9-8390-916a6498343d.gif)
 
 ### 회원 탈퇴
-![회원_탈퇴](/uploads/e2b4665d3abee6d3c41af82be8034ff3/회원_탈퇴.gif)
-
-### 채팅 기능(학생용)
-![채팅_기능_학생용_](/uploads/4a519bde36a110564abc15fbb2cc3579/채팅_기능_학생용_.gif)
+![회원_탈퇴](https://user-images.githubusercontent.com/97578458/214902213-5df95d97-0e19-4139-8d2b-75127149e601.gif)
 
 ### 퀴즈 풀기(학생용)
-![퀴즈_풀기_학생용_](/uploads/071ce709637b48d986a036af8a025073/퀴즈_풀기_학생용_.gif)
-
-### 방 입장(학생용)
-![방_입장_학생용_](/uploads/65cd9f15c95eef8df207f32bd73c2196/방_입장_학생용_.gif)
+![퀴즈_풀기_학생용_](https://user-images.githubusercontent.com/97578458/214902642-28c86fce-b18e-44f1-a783-3c5d0f9c9e92.gif)
 
 ### 방 생성(교수용)
-![방_생성_교수용_](/uploads/5f9ce518387b4f00738afea037e31a67/방_생성_교수용_.gif)
-
-### 채팅 기능(교수용)
-![채팅_기능_교수용_](/uploads/b30644be16ee32be849f9d4a4c9b2546/채팅_기능_교수용_.gif)
+![방_생성_교수용_![방_생성_교수용_](https://user-images.githubusercontent.com/97578458/214902961-3e84f44a-126f-48de-b573-df8f2daa2fe1.gif)
 
 ### 퀴즈 생성(교수용)
-![퀴즈_생성_교수용_](/uploads/534103446170c72e820f38bb2b9369ca/퀴즈_생성_교수용_.gif)
+![퀴즈_생성_교수용_](https://user-images.githubusercontent.com/97578458/214903147-a1269734-16ff-405a-a7d1-099865c6cc30.gif)
 
 ### 화면 공유(교수용)
-![화면_공유_교수용_](/uploads/cf633166836439aeff921f50eaec3034/화면_공유_교수용_.gif)
+![화면_공유_교수용_](https://user-images.githubusercontent.com/97578458/214903196-2a59f0fd-27e3-45fc-8290-6dd77e85e96c.gif)
 
 ### 퀴즈 풀기(교수용)
-![퀴즈_풀기_학생용_](/uploads/9edcbf265ac17d729e961c6fd8b63600/퀴즈_풀기_학생용_.gif)
+![퀴즈_풀기_교수용](https://user-images.githubusercontent.com/97578458/214903217-eb9b95bd-ac45-4549-9b68-a27ea541a515.gif)
 
 ### 방 나가기(교수용)
-![방_나가기_교수용_](/uploads/9684ba5d6738fdbc5355eccbf9c000a9/방_나가기_교수용_.gif)
+![방_나가기_교수용_](https://user-images.githubusercontent.com/97578458/214903249-8b191363-0f87-43f9-b1fa-c5a3e64e3102.gif)
 
 
 
@@ -237,8 +228,8 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 <br/><br/><br/>
 
 ## ⚙시스템 환경 및 구성
+![아키텍쳐](https://user-images.githubusercontent.com/97578458/214903312-bd5e8f9c-1bd1-40c3-9057-4546a2dfccfe.png)
 
-![아키텍쳐](/uploads/f32d442589c8e456c69a6c20e1efe00a/아키텍쳐.png)
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
